@@ -1,7 +1,7 @@
 # ColorGame
 iOS game using Sprite Kit
 
-![alt text](kards(1)/game.png "First screen")
+![alt text](img/cards/card-1.png "First screen")
 
 
 
